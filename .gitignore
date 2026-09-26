@@ -1,0 +1,5 @@
+a.out
+*.out
+*.exe
+build/
+.cache/
