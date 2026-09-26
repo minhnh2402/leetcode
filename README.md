@@ -1,7 +1,7 @@
 # LeetCode (C++)
 
-**NeetCode 150:** 1/150 `░░░░░░░░░░░░░░░░░░░░`  
-**Total solved:** 1
+**NeetCode 150:** 2/150 `░░░░░░░░░░░░░░░░░░░░`  
+**Total solved:** 2
 
 **Next up:** [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (Arrays & Hashing, Easy)
 
@@ -13,7 +13,7 @@ _Nothing yet_
 
 | Pattern | Progress | |
 |---|---|---|
-| Arrays & Hashing | 0/9 | `░░░░░░░░░░` |
+| Arrays & Hashing | 1/9 | `█░░░░░░░░░` |
 | Two Pointers | 0/5 | `░░░░░░░░░░` |
 | Sliding Window | 0/6 | `░░░░░░░░░░` |
 | Stack | 0/7 | `░░░░░░░░░░` |
@@ -32,13 +32,13 @@ _Nothing yet_
 | Math & Geometry | 0/8 | `░░░░░░░░░░` |
 | Bit Manipulation | 1/7 | `█░░░░░░░░░` |
 
-<details><summary><b>Arrays & Hashing</b> (0/9)</summary>
+<details><summary><b>Arrays & Hashing</b> (1/9)</summary>
 
 | | Problem | Difficulty | Date | Attempts |
 |---|---|---|---|---|
 | ⬜ | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy |  |  |
 | ⬜ | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy |  |  |
-| ⬜ | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy |  |  |
+| ✅ | [Two Sum](solutions/1.two-sum.cpp) | Easy | 2026-09-26 | 1 |
 | ⬜ | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium |  |  |
 | ⬜ | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium |  |  |
 | ⬜ | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium |  |  |
