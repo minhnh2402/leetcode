@@ -1,7 +1,7 @@
 # LeetCode (C++)
 
-**NeetCode 150:** 0/150 `░░░░░░░░░░░░░░░░░░░░`  
-**Total solved:** 0
+**NeetCode 150:** 1/150 `░░░░░░░░░░░░░░░░░░░░`  
+**Total solved:** 1
 
 **Next up:** [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (Arrays & Hashing, Easy)
 
@@ -30,7 +30,7 @@ _Nothing yet_
 | Greedy | 0/8 | `░░░░░░░░░░` |
 | Intervals | 0/6 | `░░░░░░░░░░` |
 | Math & Geometry | 0/8 | `░░░░░░░░░░` |
-| Bit Manipulation | 0/7 | `░░░░░░░░░░` |
+| Bit Manipulation | 1/7 | `█░░░░░░░░░` |
 
 <details><summary><b>Arrays & Hashing</b> (0/9)</summary>
 
@@ -294,11 +294,11 @@ _Nothing yet_
 
 </details>
 
-<details><summary><b>Bit Manipulation</b> (0/7)</summary>
+<details><summary><b>Bit Manipulation</b> (1/7)</summary>
 
 | | Problem | Difficulty | Date | Attempts |
 |---|---|---|---|---|
-| ⬜ | [Single Number](https://leetcode.com/problems/single-number/) | Easy |  |  |
+| ✅ | [Single Number](solutions/136.single-number.cpp) | Easy | 2026-09-26 | 1 |
 | ⬜ | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy |  |  |
 | ⬜ | [Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy |  |  |
 | ⬜ | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Easy |  |  |
