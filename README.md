@@ -1,7 +1,7 @@
 # LeetCode (C++)
 
-**NeetCode 150:** 2/150 `░░░░░░░░░░░░░░░░░░░░`  
-**Total solved:** 2
+**NeetCode 150:** 3/150 `░░░░░░░░░░░░░░░░░░░░`  
+**Total solved:** 3
 
 **Next up:** [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (Arrays & Hashing, Easy)
 
@@ -18,7 +18,7 @@ _Nothing yet_
 | Sliding Window | 0/6 | `░░░░░░░░░░` |
 | Stack | 0/7 | `░░░░░░░░░░` |
 | Binary Search | 0/7 | `░░░░░░░░░░` |
-| Linked List | 0/11 | `░░░░░░░░░░` |
+| Linked List | 1/11 | `█░░░░░░░░░` |
 | Trees | 0/15 | `░░░░░░░░░░` |
 | Tries | 0/3 | `░░░░░░░░░░` |
 | Heap / Priority Queue | 0/7 | `░░░░░░░░░░` |
@@ -101,11 +101,11 @@ _Nothing yet_
 
 </details>
 
-<details><summary><b>Linked List</b> (0/11)</summary>
+<details><summary><b>Linked List</b> (1/11)</summary>
 
 | | Problem | Difficulty | Date | Attempts |
 |---|---|---|---|---|
-| ⬜ | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy |  |  |
+| ✅ | [Reverse Linked List](solutions/206.reverse-linked-list.cpp) | Easy | 2026-09-28 | 1 |
 | ⬜ | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy |  |  |
 | ⬜ | [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium |  |  |
 | ⬜ | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium |  |  |
