@@ -7,7 +7,7 @@
 
 ## To review
 
-_Nothing yet_
+- [206. reverse-linked-list](solutions/206.reverse-linked-list.cpp)
 
 ## NeetCode 150
 
