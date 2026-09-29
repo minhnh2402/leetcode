@@ -1,7 +1,7 @@
 # LeetCode (C++)
 
-**NeetCode 150:** 4/150 `█░░░░░░░░░░░░░░░░░░░`  
-**Total solved:** 4
+**NeetCode 150:** 5/150 `█░░░░░░░░░░░░░░░░░░░`  
+**Total solved:** 5
 
 **Next up:** [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (Arrays & Hashing, Easy)
 
@@ -19,7 +19,7 @@
 | Sliding Window | 0/6 | `░░░░░░░░░░` |
 | Stack | 0/7 | `░░░░░░░░░░` |
 | Binary Search | 0/7 | `░░░░░░░░░░` |
-| Linked List | 2/11 | `██░░░░░░░░` |
+| Linked List | 3/11 | `███░░░░░░░` |
 | Trees | 0/15 | `░░░░░░░░░░` |
 | Tries | 0/3 | `░░░░░░░░░░` |
 | Heap / Priority Queue | 0/7 | `░░░░░░░░░░` |
@@ -102,13 +102,13 @@
 
 </details>
 
-<details><summary><b>Linked List</b> (2/11)</summary>
+<details><summary><b>Linked List</b> (3/11)</summary>
 
 | | Problem | Difficulty | Date | Attempts |
 |---|---|---|---|---|
 | ✅ | [Reverse Linked List](solutions/206.reverse-linked-list.cpp) | Easy | 2026-09-28 | 1 |
 | ✅ | [Merge Two Sorted Lists](solutions/21.merge-two-sorted-lists.cpp) | Easy | 2026-09-28 | 1 |
-| ⬜ | [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium |  |  |
+| ✅ | [Reorder List](solutions/143.reorder-list.cpp) | Medium | 2026-09-29 | 1 |
 | ⬜ | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium |  |  |
 | ⬜ | [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium |  |  |
 | ⬜ | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium |  |  |
